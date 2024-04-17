@@ -1,4 +1,4 @@
-Fakestore
+- Fakestore
 Fakestore is a web application that fetches data from an external API and renders it on the page for users to view. The application is designed to provide users with a simulated shopping experience by displaying a variety of products across different categories.
 
 Features
